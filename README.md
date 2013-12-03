@@ -1,4 +1,4 @@
-50juliasolustions
+50 Julia Solutions
 =================
 
 50 Challenging Problems--Solved with Julia!
