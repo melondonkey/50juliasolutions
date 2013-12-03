@@ -1,7 +1,7 @@
 50 Julia Solutions
 =================
 
-50 Challenging Problems--Solved with Julia!
+50 Challenging Problems in Probability--Solved with Julia!
 
 To teach myself Julia, I've decided to work through Frederick Mosteller's Book, <i>Fifty Challenging Problems in Probability With Solutions</i>, solving the problems using simulations in Julia.  This is the code for the solutions.  Out of respect for copyright, I have not included the problem text, but the book can be cheaply obtained on Amazon (and many problems can be seen in the preview).  
 
