@@ -7,7 +7,7 @@ function oneD(rolls)
   for i in 1:rolls
      results[i] = sum(rand(1:6,6) .== 6) >= 1
   end
-  return mean(results)
+  return mean(results)  #This is where I finally remembered mean of a binary vector is the way to go.
 end
 
 #B) 2 sixes with 12 dice
